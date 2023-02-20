@@ -1,7 +1,7 @@
 # Operational-Research
 AGH University of Science Course 
 
-This repository consists of 10 tasks, it includes graph algorithms and dynamic programming methods.    
+This repository consists of 8 tasks, it includes graph algorithms and dynamic programming methods.    
 
 language: Python  
 libraries: NumPy  
