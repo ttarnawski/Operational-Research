@@ -1,5 +1,5 @@
 # Operational-Research
-AGH University of Science Course 
+AGH University of Science and Technology Course 
 
 This repository consists of 8 tasks, it includes graph algorithms and dynamic programming methods.    
 
