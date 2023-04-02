@@ -1,7 +1,7 @@
 # Operational-Research
 AGH University of Science and Technology Course 
 
-This repository consists of 8 tasks, it includes graph algorithms and dynamic programming methods.    
+This repository consists of 8 tasks, it includes graph algorithms and dynamic programming methods. The second semester of this course required a knowledge of optimizing algorithms and a task to implement a process which would use it + GUI. It was a team-assignement that I made with my 2 colleagues. https://github.com/WojtekTok/batu-reasch-2ob-wtmstt
 
 language: Python  
 libraries: NumPy  
